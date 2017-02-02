@@ -160,5 +160,3 @@ There are several clear business benefits that make switching to Cloud Foundry a
 ## Thanks
 
  - Thanks to [Markus Bukowski](https://github.com/mrbuk) for helping sort out the trixy configuration required to get the transaction manager and Axon unit of work to actually work.
-
- - Thanks to [Antonio Goncalves](https://github.com/agoncal) for his help with the Spring XML to Spring Java DSL conversion.
